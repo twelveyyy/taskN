@@ -19,7 +19,7 @@ def hide_message(txt,img_path):
     # quick check whether its possible to fit the message in
     width, height = img.size
     if ((width * height) * 3) < len(message_n):
-        return print("No bueno, this prophecy: ((width * height) * 3) < len(message_n) came true :(\ntry again with a larger image or smaller message")
+        return print("No bueno,\ntry again with a larger image or smaller message")
     print("in progress..")
     # split color channels
     img_r = (img.get_flattened_data(band=0))
