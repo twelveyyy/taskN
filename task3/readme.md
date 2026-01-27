@@ -10,44 +10,65 @@
 
 ## 1. Một số lệnh trong Linux 
 `pwd` (Print working directory) 
-- In ra đường dẫn tuyệt đối của thư mục hiện tại.
-
-`ls` (List)
-- Liệt kê các file và thư mục con trong thư mục hiện tại.
+- In ra đường dẫn tuyệt đối của thư mục hiện tại.`
+<img width="438" height="145" alt="image" src="https://github.com/user-attachments/assets/4ca3c5d5-c189-4c09-be90-b83fd69e6d3a" />
 
 `cd` (Change directory)
 - Thay đổi thư mục làm việc.
+<img width="438" height="145" alt="image" src="https://github.com/user-attachments/assets/4ca3c5d5-c189-4c09-be90-b83fd69e6d3a" />
+
+`ls` (List)
+- Liệt kê các file và thư mục con trong thư mục hiện tại.
+<img width="629" height="166" alt="image" src="https://github.com/user-attachments/assets/111c34ca-4c7d-41ba-8208-4dafb4fc8c1c" />
+
+
 
 `mv` (Move)
 - Di chuyển thư mục hoăc file.
 - Đối với file thi có thể dùng để đổi tên file.
+<img width="690" height="170" alt="image" src="https://github.com/user-attachments/assets/f50c3575-94a8-491f-af2a-b08ff6e6cbd5" />
 
 `rm` (Remove)
 - Xóa file hoặc thư mục.
 - Đối với thư mục cần thêm flag recursive -r.
+<img width="605" height="165" alt="image" src="https://github.com/user-attachments/assets/7f165007-a226-45e6-8cd0-a1d063c623d5" />
 
 `echo` 
-- Tạo ra một chuối văn bản và in ra sdout.
+- Tạo ra một chuối văn bản và in ra sdout hoặc một file.
+<img width="776" height="153" alt="image" src="https://github.com/user-attachments/assets/53e77d49-f581-4e98-b674-88909a0b2c5d" />
+
 
 `cat` 
 - Copy dữ liệu raw của file và in ra sdout.
+<img width="776" height="153" alt="image" src="https://github.com/user-attachments/assets/bb744570-6edc-43b5-a9bf-9e11f8814380" />
+
   
 `find`
 - Tìm kiếm vị trí của thư mục hoặc trong hệ thống dựa trên name, size, timestamps, etc.
+<img width="1861" height="200" alt="image" src="https://github.com/user-attachments/assets/15d20842-52a3-4683-b50f-4746a3d6dd1e" />
 
 `grep`
 - Tìm kiếm một chuỗi ký tự nằm bên trong nội dung của file.
+<img width="808" height="516" alt="image" src="https://github.com/user-attachments/assets/df68fd72-166b-43b1-bdeb-e19f916fd9bc" />
 
 `file`
 - Xác định loại file bằng cách xét duyệt header của file.
+<img width="554" height="66" alt="image" src="https://github.com/user-attachments/assets/fe3e43fc-575c-4f44-abf6-05fe8fa182ed" />
 
 `strings`
 - Đọc dữ liệu của file và in ra các ký tự đọc được.
+<img width="793" height="324" alt="image" src="https://github.com/user-attachments/assets/d1868663-fe32-4c1e-b081-f75432141259" />
+
 `xxd`
 - Tạo hex dump của file hoặc đảo ngược lại.
+<img width="904" height="198" alt="image" src="https://github.com/user-attachments/assets/440a5251-7d4d-4651-8570-9acaa8acdcce" />
+<img width="933" height="70" alt="image" src="https://github.com/user-attachments/assets/f21a75b3-2f8c-4eea-8654-5c7cc26b28c8" />
+
 
 `ps`
 - Hiển thị danh sách các tiến trình đang chạy trên hệ thống.
+<img width="620" height="408" alt="image" src="https://github.com/user-attachments/assets/1a58992b-49aa-49de-ad5c-e5e0dbfa55bf" />
+
 
 ## 2. Tìm hiểu về Filesystem
 - File System là phương pháp và cấu trúc dữ liệu mà hệ điều hành sử dụng để quản lý cách dữ liệu được lưu trữ / truy xuất trên ổ đĩa.
