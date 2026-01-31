@@ -116,7 +116,10 @@
   - Log của ssh 
     <img width="1005" height="276" alt="image" src="https://github.com/user-attachments/assets/1e41f614-2fb1-4f4c-abea-7e693983f762" />
     - Log cho thấy `ssh` được start với cấu hình port 22 -> Nhận được signal 15 (SIGTERM) -> Service stop 
-  
+  - Log của sddm
+    <img width="1528" height="552" alt="image" src="https://github.com/user-attachments/assets/794ad463-a3a3-44db-b5a1-32171be717b3" />
+    - Máy tính hiện tại sử dụng sddm để login
+    - Có 2 login failed, sau mỗi lần fail sddm exit và khởi động lại
 
 
 ### Bash history
