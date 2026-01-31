@@ -2,6 +2,7 @@
 > kali
 <img width="1287" height="92" alt="image" src="https://github.com/user-attachments/assets/7154981f-834f-4cc6-84b4-8dadd3f7e95e" />
 - Truy cập config của grub trong thư mục boot và search menuentry
+
 ### What is the MD5 hash of the Apache access.log file?
 > d41d8cd98f00b204e9800998ecf8427e
 <img width="675" height="327" alt="image" src="https://github.com/user-attachments/assets/383ad615-b2af-4d47-af02-d6795edc2995" />
