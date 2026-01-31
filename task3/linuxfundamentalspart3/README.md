@@ -1,3 +1,5 @@
+- Do phòng này bị lock sau Premium nên em ghi lại những kiến thức chính được đề cập tại phòng này.
+
 ## File transfering
 - `scp` là một protocol dựa trên `ssh`, được thiết kế để chuyển file qua lại một cách bảo mật giữa host và remote
 - Syntax: `scp _source_ _destination_`.
